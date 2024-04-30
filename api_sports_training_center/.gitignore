@@ -1,0 +1,33 @@
+# Arquivos de ambiente
+.env
+
+# Arquivos de logs
+/log/*
+
+# Arquivos de dados temporários
+__pycache__/
+*.pyc
+
+# Arquivos de build
+*.egg-info/
+dist/
+build/
+*.egg
+*.egg-info
+*.log
+
+# Arquivos de dependências
+venv/
+env/
+.pipenv/
+
+# Arquivos de IDE
+.vscode/
+.idea/
+
+# Arquivos de cache
+.cached/
+
+# Outros arquivos de sistema
+.DS_Store
+Thumbs.db
